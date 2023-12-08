@@ -1,0 +1,9 @@
+{
+  "id": "a63d38f2-c117-492a-98f6-fae78e9e170d",
+  "name": "ResourceNeed",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

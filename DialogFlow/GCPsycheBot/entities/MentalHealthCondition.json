@@ -1,0 +1,9 @@
+{
+  "id": "f958161f-e15e-4226-8d67-e51f49787232",
+  "name": "MentalHealthCondition",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

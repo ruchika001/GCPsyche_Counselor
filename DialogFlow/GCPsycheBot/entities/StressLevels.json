@@ -1,0 +1,9 @@
+{
+  "id": "aa2ddeca-287a-4422-9e59-0342eae3d760",
+  "name": "StressLevels",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

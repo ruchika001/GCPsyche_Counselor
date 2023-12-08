@@ -1,0 +1,48 @@
+[
+  {
+    "value": "YesPlease",
+    "synonyms": [
+      "YesPlease",
+      "yes, please",
+      "sure",
+      "I\u0027d like that",
+      "Yes, please."
+    ]
+  },
+  {
+    "value": "OpenToSuggestions",
+    "synonyms": [
+      "open to suggestions",
+      "any ideas welcome",
+      "open to any suggestions",
+      "suggest ways to cope"
+    ]
+  },
+  {
+    "value": "SeekingGuidance",
+    "synonyms": [
+      "seeking guidance",
+      "looking for advice",
+      "seeking for some guidance"
+    ]
+  },
+  {
+    "value": "CouldUseHelp",
+    "synonyms": [
+      "CouldUseHelp",
+      "could use some help",
+      "assistance welcome",
+      "I need help."
+    ]
+  },
+  {
+    "value": "InterestedInResources",
+    "synonyms": [
+      "InterestedInResources",
+      "interested in resources",
+      "resources would be helpful",
+      "kind of resources",
+      "use some resources"
+    ]
+  }
+]

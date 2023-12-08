@@ -1,0 +1,9 @@
+{
+  "id": "664b40bb-1c9c-4f89-a0d2-7235be26ffc7",
+  "name": "ClosureIntent",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

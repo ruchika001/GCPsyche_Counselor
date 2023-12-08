@@ -1,0 +1,104 @@
+[
+  {
+    "value": "Happy",
+    "synonyms": [
+      "Happy",
+      "Joyful",
+      "Content",
+      "Pleased",
+      "Delighted"
+    ]
+  },
+  {
+    "value": "Sad",
+    "synonyms": [
+      "Sad",
+      "Unhappy",
+      "Sorrowful",
+      "Downhearted",
+      "Disheartened",
+      "Down",
+      "Empty"
+    ]
+  },
+  {
+    "value": "Anxious",
+    "synonyms": [
+      "Anxious",
+      "Nervous",
+      "Worried",
+      "Stressed",
+      "Tense"
+    ]
+  },
+  {
+    "value": "Excited",
+    "synonyms": [
+      "Excited",
+      "Enthusiastic",
+      "Eager",
+      "Thrilled",
+      "Animated"
+    ]
+  },
+  {
+    "value": "Calm",
+    "synonyms": [
+      "Calm",
+      "Serene",
+      "Tranquil",
+      "Relaxed",
+      "Unperturbed"
+    ]
+  },
+  {
+    "value": "Overwhelmed",
+    "synonyms": [
+      "Overwhelmed",
+      "inundated",
+      "swamped",
+      "overburdened",
+      "stressed"
+    ]
+  },
+  {
+    "value": "Lonely",
+    "synonyms": [
+      "Lonely",
+      "alone",
+      "isolated",
+      "solitary",
+      "desolate"
+    ]
+  },
+  {
+    "value": "Uncertain",
+    "synonyms": [
+      "Uncertain",
+      "unsure",
+      "doubtful",
+      "hesitant",
+      "indecisive"
+    ]
+  },
+  {
+    "value": "Content",
+    "synonyms": [
+      "Content",
+      "satisfied",
+      "pleased",
+      "happy",
+      "fulfilled"
+    ]
+  },
+  {
+    "value": "Grateful",
+    "synonyms": [
+      "Grateful",
+      "thankful",
+      "appreciative",
+      "indebted",
+      "beholden"
+    ]
+  }
+]

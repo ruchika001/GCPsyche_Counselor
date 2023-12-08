@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Low Stress",
+    "synonyms": [
+      "Low Stress",
+      "Low tension"
+    ]
+  },
+  {
+    "value": "Moderate Stress",
+    "synonyms": [
+      "Moderate Stress",
+      "Medium tension",
+      "Average stress",
+      "Normal stress"
+    ]
+  },
+  {
+    "value": "High Stress",
+    "synonyms": [
+      "Elevated tension",
+      "Intense stress",
+      "Severe stress",
+      "High Stress"
+    ]
+  },
+  {
+    "value": "Extreme Stress",
+    "synonyms": [
+      "Extreme Stress",
+      "Overwhelming tension",
+      "Maximum stress",
+      "Extremely stressed"
+    ]
+  }
+]

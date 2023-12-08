@@ -1,0 +1,65 @@
+[
+  {
+    "value": "Psychotherapy",
+    "synonyms": [
+      "Psychotherapy",
+      "Talk therapy",
+      "Counseling",
+      "Mental health counseling"
+    ]
+  },
+  {
+    "value": "Cognitive-Behavioral Therapy (CBT)",
+    "synonyms": [
+      "Cognitive-Behavioral Therapy (CBT)",
+      "Cognitive therapy",
+      "Behavioral therapy",
+      "CBT"
+    ]
+  },
+  {
+    "value": "Dialectical Behavior Therapy (DBT)",
+    "synonyms": [
+      "Dialectical Behavior Therapy (DBT)",
+      "DBT",
+      "Dialectical therapy",
+      "DBT counseling"
+    ]
+  },
+  {
+    "value": "Exposure Therapy",
+    "synonyms": [
+      "Exposure Therapy",
+      "Systematic desensitization",
+      "Exposure and response prevention",
+      "Exposure therapy"
+    ]
+  },
+  {
+    "value": "Art Therapy",
+    "synonyms": [
+      "Art Therapy",
+      "Creative therapy",
+      "Artistic therapy",
+      "Art psychotherapy"
+    ]
+  },
+  {
+    "value": "Music Therapy",
+    "synonyms": [
+      "Music Therapy",
+      "Sonic therapy",
+      "Sound therapy",
+      "Music psychotherapy"
+    ]
+  },
+  {
+    "value": "Group Therapy",
+    "synonyms": [
+      "Group Therapy",
+      "Group counseling",
+      "Support group",
+      "Group psychotherapy"
+    ]
+  }
+]

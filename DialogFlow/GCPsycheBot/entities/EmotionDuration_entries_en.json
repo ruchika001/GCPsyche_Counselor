@@ -1,0 +1,47 @@
+[
+  {
+    "value": "FewWeeks",
+    "synonyms": [
+      "FewWeeks",
+      "a few weeks",
+      "couple of weeks",
+      "several weeks"
+    ]
+  },
+  {
+    "value": "AboutAMonth",
+    "synonyms": [
+      "AboutAMonth",
+      "about a month",
+      "roughly one month"
+    ]
+  },
+  {
+    "value": "CoupleOfMonths",
+    "synonyms": [
+      "CoupleOfMonths",
+      "a couple of months",
+      "two months",
+      "some months"
+    ]
+  },
+  {
+    "value": "FewDays",
+    "synonyms": [
+      "FewDays",
+      "a few days",
+      "several days",
+      "a couple of days",
+      "few days ago"
+    ]
+  },
+  {
+    "value": "QuiteSomeTime",
+    "synonyms": [
+      "QuiteSomeTime",
+      "quite some time",
+      "a significant period",
+      "extended duration"
+    ]
+  }
+]

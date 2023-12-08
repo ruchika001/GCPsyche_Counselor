@@ -1,0 +1,9 @@
+{
+  "id": "5f206e2b-331d-40df-a658-ca9d2deb1bc0",
+  "name": "TherapyTypes",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

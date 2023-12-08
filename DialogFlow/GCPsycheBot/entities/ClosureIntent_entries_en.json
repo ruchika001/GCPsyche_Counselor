@@ -1,0 +1,41 @@
+[
+  {
+    "value": "ThanksForListening",
+    "synonyms": [
+      "thanks for listening",
+      "appreciate your",
+      "support means a lot",
+      "Thank you",
+      "needed someone to talk"
+    ]
+  },
+  {
+    "value": "WillReachOut",
+    "synonyms": [
+      "thanks for your support",
+      "reach out"
+    ]
+  },
+  {
+    "value": "GoodbyeForNow",
+    "synonyms": [
+      "goodbye for now",
+      "take care"
+    ]
+  },
+  {
+    "value": "FeelBetter",
+    "synonyms": [
+      "I feel better",
+      "your assistance helped",
+      "needed someone to talk"
+    ]
+  },
+  {
+    "value": "OkayForNow",
+    "synonyms": [
+      "I\u0027m okay for now",
+      "thanks for being there"
+    ]
+  }
+]

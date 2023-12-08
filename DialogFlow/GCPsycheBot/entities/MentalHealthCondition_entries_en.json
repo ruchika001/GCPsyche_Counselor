@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Depression",
+    "synonyms": [
+      "Depression",
+      "Major depressive disorder",
+      "Clinical depression",
+      "Melancholia"
+    ]
+  },
+  {
+    "value": "Anxiety",
+    "synonyms": [
+      "Anxiety",
+      "Anxiousness",
+      "Nervousness",
+      "Apprehension",
+      "Worry"
+    ]
+  },
+  {
+    "value": "Bipolar disorder",
+    "synonyms": [
+      "Bipolar disorder",
+      "Manic-depressive illness",
+      "Bipolar affective disorder"
+    ]
+  },
+  {
+    "value": "PTSD (Post-Traumatic Stress Disorder)",
+    "synonyms": [
+      "PTSD (Post-Traumatic Stress Disorder)",
+      "Post-traumatic stress syndrome",
+      "Shell shock",
+      "Combat stress reaction"
+    ]
+  },
+  {
+    "value": "OCD (Obsessive-Compulsive Disorder)",
+    "synonyms": [
+      "OCD (Obsessive-Compulsive Disorder)",
+      "Obsessive-compulsive syndrome",
+      "Compulsive behavior",
+      "OCD syndrome"
+    ]
+  }
+]

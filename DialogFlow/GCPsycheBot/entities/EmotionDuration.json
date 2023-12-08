@@ -1,0 +1,9 @@
+{
+  "id": "fd1024d1-a9db-475f-b900-901745ab9f6d",
+  "name": "EmotionDuration",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
