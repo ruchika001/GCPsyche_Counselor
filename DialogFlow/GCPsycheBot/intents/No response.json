@@ -1,0 +1,45 @@
+{
+  "id": "9a490527-db1e-4034-854e-fe6df519fa09",
+  "name": "No response",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Noresponse-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, I didn\u0027t understand you.",
+            "Please go on.",
+            "Not sure I understand that.",
+            "Please don\u0027t hesitate to talk to me.",
+            "I\u0027m sorry, I didn\u0027t understand. Can you please rephrase?",
+            "It seems like there was no response. Let me know how I can assist you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

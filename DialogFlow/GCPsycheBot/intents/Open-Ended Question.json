@@ -1,0 +1,82 @@
+{
+  "id": "2f60eec7-2e34-4436-b149-082fb0b86af5",
+  "name": "Open-Ended Question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f2a5db6e-7807-4afe-8739-3be784a53e1e",
+          "name": "Emotions",
+          "required": false,
+          "dataType": "@Emotions",
+          "value": "$Emotions",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b58a596f-d969-41a8-bd4c-8e8205441318",
+          "name": "StressLevels",
+          "required": false,
+          "dataType": "@StressLevels",
+          "value": "$StressLevels",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "77950abb-da43-4ae9-96a0-df2952ebd686",
+          "name": "ResourceNeed",
+          "required": false,
+          "dataType": "@ResourceNeed",
+          "value": "$ResourceNeed",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m here for you. Loneliness can be tough. It\u0027s important to express your feelings. Why do you think you\u0027re feeling this way?",
+            "I appreciate you sharing that. Loneliness can affect us in different ways. How long have you been feeling this way?",
+            "I hear you. It\u0027s important to talk about what\u0027s on your mind. Why do you think you\u0027re feeling this emptiness?",
+            "Thank you for reaching out. It\u0027s okay not to have all the answers. Can you share more about what\u0027s overwhelming you right now?",
+            "I understand. Expressing your thoughts can be a positive step. What\u0027s been on your mind lately?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

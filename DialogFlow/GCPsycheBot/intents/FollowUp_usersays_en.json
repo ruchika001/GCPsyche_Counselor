@@ -1,0 +1,107 @@
+[
+  {
+    "id": "b1032211-73e0-47ff-9d87-d4d50b6ddc35",
+    "data": [
+      {
+        "text": "It\u0027s not easy to pinpoint; I\u0027ve been feeling like this for ",
+        "userDefined": false
+      },
+      {
+        "text": "a few months",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "664efce1-e213-45ef-a5fa-bbc0620fc0ca",
+    "data": [
+      {
+        "text": "I wish I had an answer; this feeling has been lingering.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3c5befb-4124-4883-9775-c3b8accc69cf",
+    "data": [
+      {
+        "text": "I\u0027ve been trying to understand it myself; it\u0027s been going on ",
+        "userDefined": false
+      },
+      {
+        "text": "for weeks",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45fb7799-b1de-4e5e-bdd7-011649dfd3f6",
+    "data": [
+      {
+        "text": "It\u0027s hard to explain; I\u0027ve felt this way for ",
+        "userDefined": false
+      },
+      {
+        "text": "some time now",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "893861bb-3060-4f5a-94fc-18647f14cc4d",
+    "data": [
+      {
+        "text": "I don\u0027t know; it\u0027s just been like this for ",
+        "userDefined": false
+      },
+      {
+        "text": "a while",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

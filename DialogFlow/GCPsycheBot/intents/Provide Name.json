@@ -1,0 +1,67 @@
+{
+  "id": "fb8a7efb-a7ee-4214-b4a5-bf63b9523a99",
+  "name": "Provide Name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31b4dbfb-5ebc-4802-a464-ac8eed86a642",
+          "name": "go-by",
+          "required": false,
+          "dataType": "@Name",
+          "value": "$go-by",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4a547f02-d61a-4488-919e-b5942209cefa",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh nice to meet you $person. Tell me how was your week?",
+            "Nice to meet you $person. So tell me. How do you feel today?",
+            "That\u0027s a great name $person. Tell me more about yourself.",
+            "Hello, $person! Thank you for providing your name. How can I assist you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

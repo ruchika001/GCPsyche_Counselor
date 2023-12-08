@@ -1,0 +1,54 @@
+{
+  "id": "72a46087-d658-479f-aeee-1e8958471f8d",
+  "name": "DurationRecognition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4782c4ff-e264-44f3-89ff-fe8c3a635123",
+          "name": "EmotionDuration",
+          "required": false,
+          "dataType": "@EmotionDuration",
+          "value": "$EmotionDuration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for opening up. It\u0027s essential to acknowledge our emotions. In situations like this, reaching out to friends, family, or a mental health professional can provide valuable support. How has your experience been over the past few weeks?",
+            "I appreciate your honesty. Feelings can ebb and flow. Can you share more about the circumstances around the start of these feelings about a month ago?",
+            "Understanding the duration helps us explore your experience better. How would you describe the intensity or changes in these feelings over the past couple of months?",
+            "It\u0027s okay to reflect on when these feelings started. Can you recall any specific events or situations that may have triggered or influenced your emotions a few days ago?",
+            "I hear you. Experiencing these feelings for an extended period can be challenging. Have there been any noticeable patterns or changes during the on-and-off periods over the past few weeks?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

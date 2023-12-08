@@ -1,0 +1,84 @@
+[
+  {
+    "id": "dd445227-fa68-47e6-8768-08622b20714d",
+    "data": [
+      {
+        "text": "Thankx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78bbed2f-1e51-4b36-8375-e8ae88080284",
+    "data": [
+      {
+        "text": "Thank you very much",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4eb9177-873a-4b79-b673-fc251f914f52",
+    "data": [
+      {
+        "text": "Thanks for the help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "718b06ed-79fd-497a-9487-f4e07fd1ca10",
+    "data": [
+      {
+        "text": "That\u0027s helpful",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e313859-14cb-4d98-9a79-be589b848335",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf06ed71-1961-442b-bee3-a0ff2fe25c19",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "53d8a769-2402-429f-b4e1-e9e70998c7c3",
+    "data": [
+      {
+        "text": "i feel ",
+        "userDefined": false
+      },
+      {
+        "text": "stressed",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5c41ebb-ce7c-46d4-b834-e52c421ee6f4",
+    "data": [
+      {
+        "text": "i feel ",
+        "userDefined": false
+      },
+      {
+        "text": "anxious",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbd2f352-07ae-4028-85fc-bb9cfcde3681",
+    "data": [
+      {
+        "text": "i feel ",
+        "userDefined": false
+      },
+      {
+        "text": "nervous",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2f6d638-45d5-4a97-8c37-ee56b27aaa12",
+    "data": [
+      {
+        "text": " Dealing with ",
+        "userDefined": false
+      },
+      {
+        "text": "loneliness",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": true
+      },
+      {
+        "text": " right now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fac7e49-e358-4069-bbbe-975340d40833",
+    "data": [
+      {
+        "text": "\n I feel so ",
+        "userDefined": false
+      },
+      {
+        "text": "alone",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d898152-d623-4327-be71-087fa171d90d",
+    "data": [
+      {
+        "text": " It\u0027s hard; I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "lonely",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b11f16be-ea04-4159-bb5b-af9f05c4edda",
+    "data": [
+      {
+        "text": "\n ",
+        "userDefined": false
+      },
+      {
+        "text": "Loneliness",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "overwhelming",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": true
+      },
+      {
+        "text": " me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1986e258-b784-42e7-a204-c825f59202f6",
+    "data": [
+      {
+        "text": " I\u0027m feeling really ",
+        "userDefined": false
+      },
+      {
+        "text": "lonely",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8930809-68f4-4fd0-904e-dc6e513bee90",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "lonely",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858b1dae-913e-464b-b3f1-9e99019099d2",
+    "data": [
+      {
+        "text": "I don\u0027t know, I just feel really ",
+        "userDefined": false
+      },
+      {
+        "text": "lonely",
+        "meta": "@Emotions",
+        "alias": "emotions",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

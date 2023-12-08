@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1be7244b-7638-4a5a-ad82-d8a5c63b7f3d",
+    "data": [
+      {
+        "text": "I need a listening ear.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbadbf85-de6e-4482-816b-66e65027b45d",
+    "data": [
+      {
+        "text": "Talking to someone would be really helpful.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c13cec39-7528-45f5-81ab-153b78b26a56",
+    "data": [
+      {
+        "text": "I feel like there\u0027s a lot on my mind, and I don\u0027t know where to start.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb923bdb-de8a-41f7-ae51-44e97dc3568f",
+    "data": [
+      {
+        "text": " It\u0027s hard for me to express what\u0027s going on, but I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "overwhelmed",
+        "meta": "@StressLevels",
+        "alias": "StressLevels",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d90b2509-0aff-479e-ac42-bdade36b53d8",
+    "data": [
+      {
+        "text": "I just ",
+        "userDefined": false
+      },
+      {
+        "text": "need someone to talk",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": " to right now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71bf3b2a-27e2-4fbd-998c-954a96eadf11",
+    "data": [
+      {
+        "text": "I feel so ",
+        "userDefined": false
+      },
+      {
+        "text": "empty",
+        "meta": "@Emotions",
+        "alias": "Emotions",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86412245-eaff-4a68-8060-2e3d86a5a4e7",
+    "data": [
+      {
+        "text": "I don\u0027t have anyone to talk to.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

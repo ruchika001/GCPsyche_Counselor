@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c96f78e4-0bb7-41d2-b7f8-2631c33a11fe",
+    "data": [
+      {
+        "text": "Fare thee well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3309e70b-d1bb-4ed9-9123-3a3fa49e9ef6",
+    "data": [
+      {
+        "text": "Bye then",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18c2349c-0e72-4784-b498-32294c5e5c90",
+    "data": [
+      {
+        "text": "ok bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf8ff37b-7114-451d-be67-19645690df90",
+    "data": [
+      {
+        "text": "Sayonara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4e573be-1f49-422a-8894-156fdb373fee",
+    "data": [
+      {
+        "text": "Au revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dd46c50-bd98-4ffd-9777-43bc7553a767",
+    "data": [
+      {
+        "text": "Goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8cd438e-1eeb-4ff8-997d-c490b73c0d22",
+    "data": [
+      {
+        "text": "see you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f803de2-322d-48a7-959c-d674fb69b550",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

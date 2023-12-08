@@ -1,0 +1,53 @@
+{
+  "id": "9a3ff8fb-37cc-44d6-8998-6529eb771e38",
+  "name": "Thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4d701eb3-9db6-44cf-a5c3-8941c114ba34",
+          "name": "ClosureIntent",
+          "required": false,
+          "dataType": "@ClosureIntent",
+          "value": "$ClosureIntent",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Happy to help!",
+            "Any time!",
+            "My pleasure",
+            "You\u0027re most welcome!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "id": "e8fd0bc6-6c4b-49bd-b3e7-d67f99ea3500",
+    "data": [
+      {
+        "text": "It\u0027s been on and off for the past ",
+        "userDefined": false
+      },
+      {
+        "text": "few weeks",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b5598d4-59cc-41b1-a029-139331c99712",
+    "data": [
+      {
+        "text": "This has been going on for ",
+        "userDefined": false
+      },
+      {
+        "text": "quite some time",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6cce44a-b3fe-4159-be5e-d38eaae9fa1d",
+    "data": [
+      {
+        "text": "It started a ",
+        "userDefined": false
+      },
+      {
+        "text": "few days",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": false
+      },
+      {
+        "text": " ago.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f459fa9d-e00b-4686-a80f-66999c63389c",
+    "data": [
+      {
+        "text": "I\u0027ve been feeling like this for a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple of months",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b9cef27-91d2-4473-a5eb-797383df6d12",
+    "data": [
+      {
+        "text": "It\u0027s been about ",
+        "userDefined": false
+      },
+      {
+        "text": "a month",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c175bab3-195f-4b63-a690-278c5dd3a0b5",
+    "data": [
+      {
+        "text": "For a ",
+        "userDefined": false
+      },
+      {
+        "text": "few weeks",
+        "meta": "@EmotionDuration",
+        "alias": "EmotionDuration",
+        "userDefined": false
+      },
+      {
+        "text": " now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

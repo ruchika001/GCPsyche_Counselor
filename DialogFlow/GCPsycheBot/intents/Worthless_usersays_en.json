@@ -1,0 +1,106 @@
+[
+  {
+    "id": "e0f9a88e-e94c-4fd1-885c-414756882660",
+    "data": [
+      {
+        "text": "worthless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c510ecb4-4dde-4f1c-af2d-dc040d195318",
+    "data": [
+      {
+        "text": "likes me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "502c2cc9-61a4-4b46-82cd-0b712b98bbef",
+    "data": [
+      {
+        "text": "useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35ad1b72-2e56-43fc-8fbe-2ff0c895eef9",
+    "data": [
+      {
+        "text": "Nothing makes sense anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b1a6973-1316-44f7-95ae-dff9f637a0fe",
+    "data": [
+      {
+        "text": "I am so useless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90a99da4-87f2-4da4-a423-7d2aef9da4ce",
+    "data": [
+      {
+        "text": "I can\u0027t do anything.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d6e0e74-02c8-41fd-87f0-37dfca5e6855",
+    "data": [
+      {
+        "text": "No one likes me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "933cefc3-f79f-4206-a996-a02851e2cea0",
+    "data": [
+      {
+        "text": "I feel so worthless.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

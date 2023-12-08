@@ -1,0 +1,35 @@
+{
+  "id": "1d763cc1-f5de-408d-b3ce-f9fb1024d538",
+  "name": "Skill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don\u0027t feel satisfied with me."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

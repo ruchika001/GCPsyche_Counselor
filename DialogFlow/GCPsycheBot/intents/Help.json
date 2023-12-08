@@ -1,0 +1,52 @@
+{
+  "id": "8494c549-4444-40f6-a77c-a9da62386398",
+  "name": "Help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac6ea5c8-6608-4f1f-b439-3796228ae9f1",
+          "name": "ResourceNeed",
+          "required": false,
+          "dataType": "@ResourceNeed",
+          "value": "$ResourceNeed",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure. Tell me how can I assist you?",
+            "Tell me your problem so that I can assist you",
+            "Yes, sure. How can I help you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

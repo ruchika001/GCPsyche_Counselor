@@ -1,0 +1,54 @@
+{
+  "id": "bbecb0b7-170c-4d68-89fc-fd6aa9c5dcff",
+  "name": "FollowUp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "543c4719-332a-4386-9f4d-83b076888a6d",
+          "name": "EmotionDuration",
+          "required": false,
+          "dataType": "@EmotionDuration",
+          "value": "$EmotionDuration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I appreciate you sharing that. Loneliness can affect us in different ways. How long have you been feeling this way?",
+            "Thank you for opening up. Understanding our emotions can take time. How have you been coping with these feelings over the past weeks?",
+            "It\u0027s okay not to have all the answers. Feeling this way for an extended period can be challenging. Can you share more about what you\u0027ve been going through recently?",
+            "I hear you. Feelings can be complex, and it\u0027s okay if it takes time to figure them out. What changes have you noticed in how you\u0027ve been feeling over the past few months?",
+            "It\u0027s understandable that these feelings may be hard to articulate. Can you describe any specific situations or events that you think might be connected to your emotions?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

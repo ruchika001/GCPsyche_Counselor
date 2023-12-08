@@ -1,0 +1,191 @@
+[
+  {
+    "id": "d9ee5f09-e60e-402b-9cb8-f3816540cf07",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "okay for now",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      },
+      {
+        "text": ". Thanks for being there.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8f61cbe-a3c2-4b06-8b48-ed9c8b50fa7f",
+    "data": [
+      {
+        "text": "Your ",
+        "userDefined": false
+      },
+      {
+        "text": "support means a lot",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      },
+      {
+        "text": ". I\u0027ll let you know if I need more assistance.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13f39af8-cb03-44eb-b3ad-0d9ad8daad01",
+    "data": [
+      {
+        "text": "I feel better after talking to you. ",
+        "userDefined": false
+      },
+      {
+        "text": "Goodbye for now",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "878e4b11-873f-4074-b5d8-90ea12092bb9",
+    "data": [
+      {
+        "text": "I\u0027ll take it from here.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "186b4273-0710-4fe5-b2e2-d8fba710f4ce",
+    "data": [
+      {
+        "text": "Thank you",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      },
+      {
+        "text": " for your time.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "249a49d4-0f94-445f-bb72-5e4910401a35",
+    "data": [
+      {
+        "text": "I\u0027ll ",
+        "userDefined": false
+      },
+      {
+        "text": "reach out",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      },
+      {
+        "text": " if I need anything.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5091f0d-e07a-4fe3-a55d-62147a688a25",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "appreciate your",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      },
+      {
+        "text": " help.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "796bad52-dd9d-4d4c-b52b-e2e5d1d2b198",
+    "data": [
+      {
+        "text": "Thanks for listening",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0642a672-07fe-47de-b2fb-6fc727d0e4d9",
+    "data": [
+      {
+        "text": "No, I think I just ",
+        "userDefined": false
+      },
+      {
+        "text": "needed someone to talk",
+        "meta": "@ClosureIntent",
+        "alias": "ClosureIntent",
+        "userDefined": true
+      },
+      {
+        "text": " to.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

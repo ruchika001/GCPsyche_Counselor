@@ -1,0 +1,37 @@
+{
+  "id": "1a071e41-3270-4bb5-b4c8-eac16bb7d6c6",
+  "name": "Creation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I was created by Group 08 of Intro to Cloud Technologies students named Ruchika, Urvish , Dhavalsinh, Lav and Hardik.",
+            "I was trained on a text dataset using Deep Learning \u0026 Natural Language Processing techniques",
+            "The real question is: Who created you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

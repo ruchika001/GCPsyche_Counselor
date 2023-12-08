@@ -1,0 +1,55 @@
+{
+  "id": "bfdcc966-4f53-4794-83b9-c81135de6154",
+  "name": "EmotionRecognition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "intent.emotionRecognition",
+      "affectedContexts": [
+        {
+          "name": "EmotionRecognition-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5d109372-3f88-4207-aec0-9ccefe58333a",
+          "name": "emotions",
+          "required": false,
+          "dataType": "@Emotions",
+          "value": "$emotions",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry to hear that you\u0027re feeling $emotions. It\u0027s okay to feel this way. Can you tell me more about what\u0027s going on?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

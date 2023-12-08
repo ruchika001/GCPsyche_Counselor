@@ -1,0 +1,59 @@
+{
+  "id": "65b9b312-b94a-4cea-b8c8-c39487632df8",
+  "name": "Sad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ExploreEmotions",
+      "affectedContexts": [
+        {
+          "name": "Sad-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5889de1b-72a4-4975-a155-f2f0bf2b08a1",
+          "name": "userEmotion",
+          "required": false,
+          "dataType": "@Emotions",
+          "value": "$userEmotion",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry to hear that. I\u0027m here for you. Talking about it might help. So, tell me why do you think you\u0027re feeling this way?",
+            "I\u0027m here for you. Could you tell me why you\u0027re feeling $userEmotion?",
+            "Why do you think you feel $userEmotion?",
+            "How long have you been feeling $userEmotion?",
+            "Why do you think you feel this way?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

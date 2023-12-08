@@ -1,0 +1,40 @@
+{
+  "id": "3297815f-18a4-40e2-888f-888f471db3dc",
+  "name": "About",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m GCPsycheBot, your Personal Therapeutic AI Assistant. How are you feeling today.",
+            "I\u0027m GCPsycheBot, a Therapeutic AI Assistant designed to assist you. Tell me about yourself.",
+            "I\u0027m GCPsycheBot. I am a conversational agent designed to mimic a therapist. So how are you feeling today?",
+            "You can call me GCPsycheBot.",
+            "I\u0027m GCPsycheBot!",
+            "Call me GCPsycheBot."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

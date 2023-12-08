@@ -1,0 +1,67 @@
+{
+  "id": "c1a71f13-9284-43ca-9d9a-5ad9e06c7021",
+  "name": "ResourceOffer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0f5b5ddb-6461-48d1-8ea8-e663739fa0a2",
+          "name": "Emotions",
+          "required": false,
+          "dataType": "@Emotions",
+          "value": "$Emotions",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d1f596fd-a897-498f-ac79-17e3b7d0bb01",
+          "name": "ResourceNeed",
+          "required": false,
+          "dataType": "@ResourceNeed",
+          "value": "$ResourceNeed",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great. First, consider talking to friends or family about your feelings. Additionally, engaging in activities you enjoy and joining social groups can help alleviate loneliness. If you ever need someone to talk to, I\u0027m here for you. Remember, seeking professional help is always an option. Would you like more information on coping strategies?",
+            "Thank you for being open to resources. Connecting with others is crucial. Have you considered joining local social groups or participating in activities you enjoy? I can provide more information on coping strategies if you\u0027re interested.",
+            "I appreciate your willingness to explore resources. Building connections and engaging in activities can make a significant difference. If you\u0027d like, I can share coping strategies or information on support groups. What would you prefer?",
+            "Your openness to resources is commendable. Taking small steps, like reaching out to friends or trying new activities, can positively impact your well-being. Would you like guidance on specific coping strategies or support groups?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

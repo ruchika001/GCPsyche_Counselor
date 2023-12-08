@@ -1,0 +1,154 @@
+[
+  {
+    "id": "45dd226b-1c28-4fac-8c2a-89d6232b4eec",
+    "data": [
+      {
+        "text": "help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0b9b180-1b9a-4647-913b-aa3bc03ccfbf",
+    "data": [
+      {
+        "text": "support me",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37ac4f59-e98d-4546-a854-ccab4f504b73",
+    "data": [
+      {
+        "text": "help me",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77157e6f-38d6-4c02-b5fe-f5c2d99f5693",
+    "data": [
+      {
+        "text": "Support me please",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43bb47fe-d779-45d6-84ec-e217d334a176",
+    "data": [
+      {
+        "text": "I need help",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b677903-0b34-4f3e-8e34-d9137e7ca0a2",
+    "data": [
+      {
+        "text": "I need support",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8cbe7af-322a-4ee6-b035-099e7ca194ea",
+    "data": [
+      {
+        "text": "What can you do for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee163e0c-732e-4e43-aa3c-0eba1c8db572",
+    "data": [
+      {
+        "text": "Can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c681875-a68e-4efb-aa2e-9f6f1d408f94",
+    "data": [
+      {
+        "text": "give me a hand please",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5b1e214-2b74-4e33-8bd1-767f06ef4229",
+    "data": [
+      {
+        "text": "Could you ",
+        "userDefined": false
+      },
+      {
+        "text": "help me",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

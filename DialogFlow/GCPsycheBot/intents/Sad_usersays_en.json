@@ -1,0 +1,245 @@
+[
+  {
+    "id": "07ad12e3-85ce-48d4-aa95-1a8758572cda",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Emotions",
+        "alias": "userEmotion",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "971e9de7-c015-4ee2-a066-3f55866f6b1c",
+    "data": [
+      {
+        "text": "I am {",
+        "userDefined": false
+      },
+      {
+        "text": "Emotions",
+        "userDefined": true
+      },
+      {
+        "text": ":",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Emotions",
+        "alias": "userEmotion",
+        "userDefined": true
+      },
+      {
+        "text": "}.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "327cc80c-70ae-4a08-aa45-4d41d2af48d1",
+    "data": [
+      {
+        "text": "I feel {Emotions:",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Emotions",
+        "alias": "userEmotion",
+        "userDefined": true
+      },
+      {
+        "text": "}",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "135e329e-0030-42be-a81a-27767a178f93",
+    "data": [
+      {
+        "text": "I am feeling {Emotions:",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Emotions",
+        "alias": "userEmotion",
+        "userDefined": true
+      },
+      {
+        "text": "}.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9be1312-2228-4e73-86ca-8e92cffffa0a",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@Emotions",
+        "alias": "userEmotion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "586fbf17-6af9-4f42-8dac-9954eea29c99",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "empty",
+        "meta": "@Emotions",
+        "alias": "userEmotion",
+        "userDefined": true
+      },
+      {
+        "text": " surrounded by people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3767ba7a-20b8-43fc-8f81-d034c46a657f",
+    "data": [
+      {
+        "text": "no one is there for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88945574-ee3b-4b7a-aa82-31ddc3c4fed6",
+    "data": [
+      {
+        "text": "I don\u0027t have anyone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b72a838d-fc6d-41d1-8590-6da39cd95b8a",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "empty",
+        "meta": "@Emotions",
+        "alias": "userEmotion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8be9228f-3070-4cd9-b621-9f371edda319",
+    "data": [
+      {
+        "text": "I feel sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "312df5a2-bf34-4afc-96aa-e66bab3af715",
+    "data": [
+      {
+        "text": "I am so lonely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf3b60c7-9f01-40a0-86d5-2a03f1d01c40",
+    "data": [
+      {
+        "text": "I am feeling lonely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8be0204f-00b5-4206-a72e-f34a2c2b9f65",
+    "data": [
+      {
+        "text": "i am unhappy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

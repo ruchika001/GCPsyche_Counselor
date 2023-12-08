@@ -1,0 +1,54 @@
+{
+  "id": "f621b95b-1b67-438c-914b-39808413c338",
+  "name": "Closure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f714086-1d1a-4fbc-a170-996789517327",
+          "name": "ClosureIntent",
+          "required": false,
+          "dataType": "@ClosureIntent",
+          "value": "$ClosureIntent",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You\u0027re welcome. I\u0027m here whenever you need to talk. Take care of yourself, and don\u0027t hesitate to reach out again. Goodbye for now!",
+            "It was my pleasure to listen and offer support. If you ever find yourself needing assistance or just want to chat, I\u0027m here. Wishing you well. Goodbye for now!",
+            "I\u0027m grateful for the trust you placed in our conversation. If you ever need someone to talk to or have questions, feel free to reach out. Take care and goodbye for now.",
+            "I\u0027m glad I could provide support. Remember, I\u0027m just a message away if you ever want to talk. Take care and goodbye for now."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

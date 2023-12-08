@@ -1,0 +1,203 @@
+[
+  {
+    "id": "0758476e-219f-4e67-b2fc-0c78eba826c8",
+    "data": [
+      {
+        "text": "I need help",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9583588e-35dc-4a3e-8db8-9f70f4668bca",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "could use some help",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75a5e9aa-d514-4f45-a669-94fd32ffc16b",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "seeking for some guidance",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f099f21-bcbf-40de-9677-7dc09fa96bcf",
+    "data": [
+      {
+        "text": "Resources would be helpful",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c7acc5d-e30d-4457-86da-adfe699d8b26",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "open to any suggestions",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06655f39-c1a9-4257-9eb2-c929e4c37073",
+    "data": [
+      {
+        "text": "Can you ",
+        "userDefined": false
+      },
+      {
+        "text": "suggest ways to cope",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "loneliness",
+        "meta": "@Emotions",
+        "alias": "Emotions",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5026e0df-c57f-4764-8707-5eba674e3613",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "kind of resources",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": " are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b15c565-55a0-42fe-9dde-7f73e901717f",
+    "data": [
+      {
+        "text": "I could ",
+        "userDefined": false
+      },
+      {
+        "text": "use some resources",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1da68609-6169-4f45-97a5-985f16c84455",
+    "data": [
+      {
+        "text": "Yes, please.",
+        "meta": "@ResourceNeed",
+        "alias": "ResourceNeed",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

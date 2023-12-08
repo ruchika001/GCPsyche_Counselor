@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1d940f7e-1468-4b05-b340-cabc388e7fdc",
+    "data": [
+      {
+        "text": "I am so ",
+        "userDefined": false
+      },
+      {
+        "text": "burned out",
+        "meta": "@StressLevels",
+        "alias": "StressLevel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f9855ab-4c24-4570-8411-231f426dbc1f",
+    "data": [
+      {
+        "text": "I still feel ",
+        "userDefined": false
+      },
+      {
+        "text": "stressed",
+        "meta": "@StressLevels",
+        "alias": "StressLevel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67aa4479-4f42-40db-8d9e-0de9664fa1a7",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "stuck",
+        "meta": "@StressLevels",
+        "alias": "StressLevel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ed34f6f-1574-4dab-819c-579b6b524ca3",
+    "data": [
+      {
+        "text": "I am so ",
+        "userDefined": false
+      },
+      {
+        "text": "stressed",
+        "meta": "@StressLevels",
+        "alias": "StressLevel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e6c1e51-c4bf-4cdf-ad50-aa4eb21eecaf",
+    "data": [
+      {
+        "text": "I am so ",
+        "userDefined": false
+      },
+      {
+        "text": "stressed out",
+        "meta": "@StressLevels",
+        "alias": "StressLevel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
