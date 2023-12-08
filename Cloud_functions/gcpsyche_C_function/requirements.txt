@@ -1,0 +1,6 @@
+functions-framework==3.3.0
+Werkzeug==2.0.0
+Flask==2.1.0
+google-cloud-language==2.5.0
+google-cloud-bigquery==2.30.0
+
