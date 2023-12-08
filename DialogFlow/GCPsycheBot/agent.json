@@ -1,0 +1,54 @@
+{
+  "description": "Our goal is to create a user-friendly and empathetic, providing valuable mental health information and support. Additionally, our chatbot provide a safe and confidential space for users to discuss their mental health concerns anonymously. Ultimately, our aim is to use this platform to raise awareness about mental health and promote overall well-being.",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "GCPsycheBot",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "4fa26a6a-908c-44ff-b6ed-8e4c9effd8e8",
+      "f621b95b-1b67-438c-914b-39808413c338"
+    ],
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://us-east1-gcpsyche-counselor.cloudfunctions.net/gcpsyche_C_function",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "1b4ce24f035e4088a2e3a5a0400f2230",
+  "analyzeQueryTextSentiment": true,
+  "enabledKnowledgeBaseNames": [
+    "projects/gcpsyche-counselor/knowledgeBases/NTY0MzU4MTUyOTM4NTg2MTEyMA"
+  ],
+  "knowledgeServiceConfidenceAdjustment": -0.3,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": true
+}
